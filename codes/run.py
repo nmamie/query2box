@@ -202,7 +202,7 @@ def main(args):
     #     raise ValueError('Where do you want to save your trained model?')
 
     cur_time = parse_time()
-    print ("overide save string.")
+    print ("override save string.")
     if args.task == '1c':
         args.stepsforpath = 0
     else:

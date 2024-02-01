@@ -1,2 +1,5 @@
 logs
 codes/__pycache__
+data/
+models/
+test.ipynb
